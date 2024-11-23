@@ -1,4 +1,4 @@
-[![Header]()]
+![Header](https://github.com/vahMakeup/vahMakeup/blob/main/Cover.jpg)
 ## Привет, меня зовут Виктория 👋
 <!--
 **vahMakeup/vahMakeup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
